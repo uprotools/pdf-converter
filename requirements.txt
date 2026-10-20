@@ -2,3 +2,4 @@ streamlit
 PyMuPDF
 Pillow
 psd-tools
+pycairo
