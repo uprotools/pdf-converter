@@ -1,0 +1,4 @@
+streamlit
+PyMuPDF
+Pillow
+psd-tools
