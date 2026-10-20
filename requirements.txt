@@ -3,3 +3,4 @@ PyMuPDF
 Pillow
 psd-tools
 pycairo
+pytesseract
