@@ -1,2 +1,8 @@
 poppler-utils
 imagemagick
+pdf2svg
+inkscape
+libcairo2
+libcairo2-dev
+pkg-config
+python3-dev
