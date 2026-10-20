@@ -6,3 +6,8 @@ libcairo2
 libcairo2-dev
 pkg-config
 python3-dev
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-ben
+fonts-liberation
+fonts-dejavu
